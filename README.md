@@ -20,5 +20,6 @@ This project is based on idea of using AI to help farmers maintain crops using a
 16. Jupyter Notebook
 17. Jupyter Lab
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Usage
+# step 1
+pip install -r requirements.txt

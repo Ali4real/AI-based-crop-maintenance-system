@@ -1,6 +1,6 @@
 import cv2
 
-vid = cv2.VideoCapture(0)
+vid = cv2.VideoCapture('http://192.168.100.71:81/stream')
 
 while(True):
     ret, frame = vid.read()

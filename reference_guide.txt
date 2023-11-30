@@ -1,1 +1,0 @@
-https://blog.paperspace.com/train-yolov7-custom-data/
